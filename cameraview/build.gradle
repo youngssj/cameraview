@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.youngssj'
+group='com.github.switter'
 
 android {
     compileSdkVersion 26
